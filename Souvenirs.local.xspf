@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+	<title>Souvenirs</title>
+	<trackList>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Le%20jour%20se%20l%C3%A8ve.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Marche.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Pluie.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Souvenirs.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Etre%20une%20star.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Devenir%20Papa.ogg</location>
+		</track>
+		<track>
+			<location>file:///home/mathieu/projets/souvenirs/Tour%20de%20man%A8ge.ogg</location>
+		</track>
+	</trackList>
+</playlist>
