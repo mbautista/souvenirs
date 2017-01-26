@@ -42,7 +42,13 @@
 			<location>https://github.com/mbautista/souvenirs/raw/master/Pluie~classique.ogg</location>
 		</track>
 		<track>
+			<location>https://github.com/mbautista/souvenirs/raw/master/Pluie~jazz.ogg</location>
+		</track>
+		<track>
 			<location>https://github.com/mbautista/souvenirs/raw/master/Etre%20une%20star~jazz.ogg</location>
+		</track>
+		<track>
+			<location>https://github.com/mbautista/souvenirs/raw/master/Coeur~tango.ogg</location>
 		</track>
 	</trackList>
 </playlist>
