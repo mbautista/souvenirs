@@ -39,9 +39,6 @@
 			<location>Sous%20les%20%C3%A9toiles.ogg</location>
 		</track>
 		<track>
-			<location>Pluie~classique.ogg</location>
-		</track>
-		<track>
 			<location>Pluie~jazz.ogg</location>
 		</track>
 		<track>
@@ -63,7 +60,7 @@
 			<location>Empathie.ogg</location>
 		</track>
 		<track>
-			<location>Dnas%20ma%20bulle.ogg</location>
+			<location>Dans%20ma%20bulle.ogg</location>
 		</track>
 	</trackList>
 </playlist>
