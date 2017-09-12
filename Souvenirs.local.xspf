@@ -62,5 +62,11 @@
 		<track>
 			<location>Dans%20ma%20bulle.ogg</location>
 		</track>
+		<track>
+			<location>Marche~lente.ogg</location>
+		</track>
+		<track>
+			<location>Ordinaire.ogg</location>
+		</track>
 	</trackList>
 </playlist>
