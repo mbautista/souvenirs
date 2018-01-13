@@ -74,5 +74,11 @@
 		<track>
 			<location>Vu%20du%20ciel.ogg</location>
 		</track>
+		<track>
+			<location>Silence.ogg</location>
+		</track>
+		<track>
+			<location>Dans%20ta%20m%C3%A9moire</location>
+		</track>
 	</trackList>
 </playlist>
