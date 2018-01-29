@@ -78,7 +78,10 @@
 			<location>Silence.ogg</location>
 		</track>
 		<track>
-			<location>Dans%20ta%20m%C3%A9moire</location>
+			<location>Dans%20ta%20m%C3%A9moire.ogg</location>
+		</track>
+		<track>
+			<location>On%20a%20tous%20gagn%C3%A9.ogg</location>
 		</track>
 	</trackList>
 </playlist>

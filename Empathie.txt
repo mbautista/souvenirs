@@ -2,9 +2,8 @@
 Empathie
 --
 
-(intro)
+(intro ~01:08)
 
-(couplet 1)
 Empathie
 Faire parti de ce monde
 En adorer la vie
@@ -13,16 +12,15 @@ Pour vivre en une seconde
 Des milliards de vies
 Parties
 Ou à venir après nous ici
-...
-...
+Que vive la vie
+Qu'elle résonne dans l'infini
 
-(solo 1)
+(solo)
 
-(couplet 2)
 Empathie
 Ressentir de ce monde
 La douleur et les cris
-...
+Empathie
 ...
 ...
 ...
@@ -31,4 +29,4 @@ La douleur et les cris
 ...
 ...
 
-(solo 2)
+(outro)
