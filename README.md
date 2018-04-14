@@ -1,12 +1,12 @@
 souvenirs
 =========
 
-Une promenade musicale, composée avec MuseScore.
+Musiques et chansons libres de droits aux formats MuseScore et OGG.
 
-- Album au format M3U (Windows Media Player, iTunes, WinAmp) : 
+- Maquette au format M3U (Windows Media Player, iTunes, WinAmp) : 
 
 https://github.com/mbautista/souvenirs/raw/master/Souvenirs.m3u
 
-- Album au format XPSF (VLC) :
+- Maquette au format XPSF (VLC) :
 
 https://github.com/mbautista/souvenirs/raw/master/Souvenirs.xspf
