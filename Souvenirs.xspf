@@ -84,9 +84,6 @@
 			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/On%20a%20tous%20gagn%C3%A9.ogg</location>
 		</track>
 		<track>
-			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/Etre%20une%20star~Choeur.ogg</location>
-		</track>
-		<track>
 			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/Aller%20danser.ogg</location>
 		</track>
 		<track>
@@ -142,6 +139,15 @@
 		</track>
 		<track>
 			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/Macha.ogg</location>
+		</track>
+		<track>
+			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/O%C3%B9%20es-tu.ogg</location>
+		</track>
+		<track>
+			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/Jeunes%20Ann%C3%A9es.ogg</location>
+		</track>
+		<track>
+			<location>https://github.com/mbautista/souvenirs/raw/master/2-maquettes/Elle.ogg</location>
 		</track>
 	</trackList>
 </playlist>

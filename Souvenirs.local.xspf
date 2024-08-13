@@ -84,9 +84,6 @@
 			<location>2-maquettes/On%20a%20tous%20gagn%C3%A9.ogg</location>
 		</track>
 		<track>
-			<location>2-maquettes/Etre%20une%20star~Choeur.ogg</location>
-		</track>
-		<track>
 			<location>2-maquettes/Aller%20danser.ogg</location>
 		</track>
 		<track>
@@ -138,10 +135,19 @@
 			<location>2-maquettes/Mon%20p%C3%A8re.ogg</location>
 		</track>
 		<track>
-			<location>2-maquettes/Un%20mal%20pour%20un%20mal.ogg</location>
+			<location>2-maquettes/Un%20mal%20pour%C3%B9un%20mal.ogg</location>
 		</track>
 		<track>
 			<location>2-maquettes/Macha.ogg</location>
+		</track>
+		<track>
+			<location>2-maquettes/O%C3%B9%C3%B9es-tu.ogg</location>
+		</track>
+		<track>
+			<location>2-maquettes/Jeunes%C3%B9Ann%C3%A9es.ogg</location>
+		</track>
+		<track>
+			<location>2-maquettes/Elle.ogg</location>
 		</track>
 	</trackList>
 </playlist>
