@@ -2,7 +2,7 @@
 Empathie
 --
 
-(intro ~01:08)
+(intro)
 
 Empathie
 Faire parti de ce monde
@@ -12,9 +12,9 @@ Pour vivre en une seconde
 Des milliards de vies
 Parties
 Ou à venir après nous ici
-Pour que vive la vie
-Car elle est bien plus belle
-Que ce vide infini
+Une seule vie
+Perdue dans un espace
+Infini
 
 (solo)
 
@@ -22,7 +22,7 @@ Empathie
 Ressentir tous ces mondes
 La douleur et les cris
 Empathie
-Animés d'une seule onde
+Animés d'une même onde
 Le fil qui nous lie
 Unis
 ...
