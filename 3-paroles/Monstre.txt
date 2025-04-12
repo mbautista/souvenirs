@@ -1,5 +1,5 @@
 --
-Monstre
+Monstre (Bm)
 --
 
 Quel est ce monstre
@@ -14,7 +14,7 @@ Comme un dégoût dans son regard
 une vérité que je ne veux pas voir
 Je ne vois qu'un homme triste et sans histoire
 Une âme grise avec des idées noires
-...
+Un être vide de désespoir
 
 Quel est ce monstre
 Qui me regarde
@@ -28,4 +28,4 @@ Comme un dégoût dans son regard
 une vérité que je ne veux pas voir
 Je ne vois qu'un homme triste et sans histoire
 Une âme grise avec des idées noires
-...
+Un être vide de désespoir
